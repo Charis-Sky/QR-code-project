@@ -2,9 +2,20 @@
 	font-family: 'Outfit';
 	border-radius: 10px;
 }
-
 body {
 	background-color: hsl(212, 45%, 89%);
+}
+h1{
+    font-weight: 1000;
+	font-size: 23px;
+	color:hsl(218, 44%, 22%);
+	margin: 17.5px;
+}
+h3{
+	font-weight: 400;
+	font-size: 15px;
+	color: hsl(220, 15%, 55%);
+	margin: 17.5px 30px;
 }
 div{
 	border-radius: 25px;
@@ -30,16 +41,4 @@ div{
 }
 .text{
 	text-align: center;
-}
-#bold{
-    font-weight: 1000;
-	font-size: 23px;
-	color:hsl(218, 44%, 22%);
-	margin: 17.5px;
-}
-#light{
-	font-weight: 400;
-	font-size: 15px;
-	color: hsl(220, 15%, 55%);
-	margin: 17.5px 30px;
 }
